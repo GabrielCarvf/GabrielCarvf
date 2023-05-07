@@ -12,7 +12,9 @@ Com foco na automação de processos de grandes empresas. Hoje atuo como Tech Le
 Tenho uma vasta experiência em desenvolvimento web com as técnologias básicas (HTML, JS, CSS, JQuery, SQL, Bootstrap).
 E uma boa experiência com tecnologias mais recentes como ReactJS, NodeJS, entre outras.
 
+<div>
 Caso queira entrar em contato: gabrielcarvalho33527@gmail.com
+</div>
 
 &#160;&#160;&#160;
 
