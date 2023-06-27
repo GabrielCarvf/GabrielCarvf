@@ -7,13 +7,13 @@
 
 &#160;&#160;
 
-Sou Consultor Fluig e Tech Lead na [@VFLOWS](https://www.linkedin.com/company/vflows) com um histórico na automação de processos empresariais de grande escala. Tenho mais de 4 anos de experiência com Fluig e em desenvolvimento web, trabalhando com tecnologias básicas e mais recentes, incluindo ReactJS, NodeJS e outras.
+Sou Consultor Fluig, com um histórico na automação de processos empresariais de grande escala. Tenho mais de 4 anos de experiência com Fluig e em desenvolvimento web, trabalhando com tecnologias básicas e mais recentes, incluindo ReactJS, NodeJS e outras.
 
 Como consultor Fluig, procuro ajudar empresas a otimizar seus processos e alcançar seus objetivos de negócios, analisando e propondo pontos de melhoria para criar soluções personalizadas e atender às necessidades dos clientes.
 
-Como Tech Lead, também sou responsável por liderar uma equipe de desenvolvedores e garantir que nossos projetos sejam entregues no prazo e dentro do orçamento.
+<!-- Como Tech Lead, também sou responsável por liderar uma equipe de desenvolvedores e garantir que nossos projetos sejam entregues no prazo e dentro do orçamento.
 
-<!-- Meu trabalho tem foco na automação de processos de grandes empresas. Hoje atuo como Tech Lead na [@VFLOWS](https://www.linkedin.com/company/vflows)
+Meu trabalho tem foco na automação de processos de grandes empresas. Hoje atuo como Tech Lead na [@VFLOWS](https://www.linkedin.com/company/vflows)
 
 Tenho uma vasta experiência em desenvolvimento web com as técnologias básicas (HTML, JS, CSS, JQuery, SQL, Bootstrap).
 E uma boa experiência com tecnologias mais recentes como ReactJS, NodeJS, entre outras. -->
